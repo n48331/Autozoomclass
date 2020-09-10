@@ -7,10 +7,10 @@ Here is a fully automatic zoom class with google sheets thus you can type id and
 - put credentialsand screenshots in same folder
 -make a google sheet shown in screen shot
 
--pip install gspread
--pip install pyautogui
--pip install schedule
--pip install subprocess
+-pip install gspread 
+pyautogui 
+schedule 
+subprocess
 
 
 After running  the program if it says "Scedules started" its working fine
